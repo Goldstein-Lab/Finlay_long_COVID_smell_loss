@@ -44,7 +44,7 @@ long COVID symptoms.
 
 
 ## Manuscript
-For more details, please see our full open access manuscript [] (link to be posted upon final acceptance)
+For more details, please see our full manuscript [] (link to be posted upon final acceptance)
 
 # Data
 All datasets used in this manuscript are available on NCBI GEO at accession numbers [GSE201620](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE201620), [GSE139522](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE139522), and [GSE184117](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE184117). 
