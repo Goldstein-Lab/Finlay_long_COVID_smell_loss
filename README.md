@@ -58,6 +58,7 @@ Code to replicate analyses performed in [Finlay et al. 2022 Science Translationa
 
 1. Download data from NCBI GEO
 2. See [Jupyter Notebooks](./notebooks) for specific dataset integration methods and analyses. 
+3. Please refer to [Scanpy](https://scanpy.readthedocs.io/en/stable/), [scvi-tools](https://docs.scvi-tools.org/en/stable/tutorials/index.html), [Seurat](https://satijalab.org/seurat/articles/get_started.html), [NicheNetR](https://github.com/saeyslab/nichenetr), and [Circos](https://github.com/saeyslab/nichenetr/blob/master/vignettes/seurat_wrapper_circos.md) tutorials for package-specific code that was adapted for datasets in this manuscript. 
 
 # Contact
 Please consult methods described in our manuscript for more details or [contact](bradley.goldstein@duke.edu) corresponding author for specific requests.
