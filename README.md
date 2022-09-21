@@ -1,4 +1,4 @@
-Finlay_Long_COVID_smell_loss
+Finlay_long_COVID_smell_loss
 ==========================================================
 
 # Persistent post-COVID-19 smell loss is associated with immune infiltration and altered olfactory epithelial gene expression
