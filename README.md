@@ -57,7 +57,7 @@ Raw fastq files can be found on the SRA.
 Code to replicate analyses performed in [Finlay et al. 2022 Science Translational Medicine]
 
 1. Download data from NCBI GEO
-2. See [Jupyter Notebooks](./notebooks) for specific dataset integration methods and analyses. 
+2. See Jupyter Notebooks above for manuscript specific dataset integration methods and analyses, and R script for conversion of anndata objects to Seurat objects.
 3. Please refer to [Scanpy](https://scanpy.readthedocs.io/en/stable/), [scvi-tools](https://docs.scvi-tools.org/en/stable/tutorials/index.html), [Seurat](https://satijalab.org/seurat/articles/get_started.html), [NicheNetR](https://github.com/saeyslab/nichenetr), and [Circos](https://github.com/saeyslab/nichenetr/blob/master/vignettes/seurat_wrapper_circos.md) tutorials for package-specific code that was adapted for datasets in this manuscript. 
 
 # Contact
